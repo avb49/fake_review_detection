@@ -3,7 +3,7 @@ Author: Artem Butbaev
 Date: 30 April 2021
 
 --------------------------------------------------------------------
-This code was submitted by the author as part of their University dissertation "Detection of fake reviews using a transparent machine learning approach" submitted in 2021.
+This code and PDF document (dissertation) was submitted by the author as part of their University dissertation "Detection of fake reviews using a transparent machine learning approach" submitted in 2021.
 
 --------------------------------------------------------------------
 
