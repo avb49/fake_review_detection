@@ -29,27 +29,27 @@ Please note that the dataset is very large, at a size of almost 1GB, hence not b
 Files included in respective folders:
 
 
-1. Data Preparation
+1. data_preparation
 
-	Notebook 1 - Data Processing.ipynb
-	data_preparation.py
+	- Notebook 1 - Data Processing.ipynb
+	- data_preparation.py
 
-2. Feature Engineering
+2. feature_engineering
 
-	Notebook 2 - Feature Engineering.ipynb
-	feature_engineering.py
+	- Notebook 2 - Feature Engineering.ipynb
+	- feature_engineering.py
 
-3. Model Evaluation
+3. model_evaluation
 
-	Notebook 3 - Model Evaluation.ipynb
-	model_evaluation.py
+	- Notebook 3 - Model Evaluation.ipynb
+	- model_evaluation.py
 
-4. Front End (User Interface)
+4. front_end
 
-	Notebook 4a - User Interface v1.0.ipynb
-	Notebook 4b - User Interface v2.0.ipynb
-	ui_v1.0.py
-	ui_v2.0.py
-	dt_final.pkl -> the decision tree classifier
-	x_test.pkl -> the test data (features only)
-	df_test.pkl -> associated data for test data (such as the review text)
+	- Notebook 4a - User Interface v1.0.ipynb
+	- Notebook 4b - User Interface v2.0.ipynb
+	- ui_v1.0.py
+	- ui_v2.0.py
+	- dt_final.pkl -> the decision tree classifier
+	- x_test.pkl -> the test data (features only)
+	- df_test.pkl -> associated data for test data (such as the review text)
